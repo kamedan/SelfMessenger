@@ -13,7 +13,6 @@
     <string name="sign_up_text">Sign Up !</string>
     <string name="title_activity_sign_up">SignUpActivity</string>
     <string name="email_hint">Email</string>
-    
     <string name="sign_up_button_label">Sign up</string>
     <string name="signup_error_message">enter username , password , email</string>
     <string name="signup_error_title">Oops !</string>
@@ -22,6 +21,25 @@
     <string name="menu_logout_label">Logout</string>
     <string name="empty_inbox_label">No new messages</string>
     <string name="empty_friends_label">Add friends to begin</string>
-    
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_title">Sorry !</string>
+    <string name="menu_camera_label">Camera</string>
+
+    <string-array name="camera_choices">
+        <item>Take picture</item>
+        <item>Take video</item>
+        <item>Choose Picture</item>
+        <item>Choose Video</item>
+    </string-array>
+
+    <string name="error_external_storage">problem in external storage</string>
+    <string name="video_file_size_warning">the video must be less than 10 mb</string>
+    <string name="error_open_file">problem with the selected file</string>
+    <string name="error_file_size">the file is greater than 10 mb</string>
+    <string name="title_activity_recipients">Choose Recipients</string>
+    <string name="empty_recepients_list">Choose some friends first</string>
+    <string name="action_send_label">Send</string>
+    <string name="title_activity_view_image">SelfMessenger</string>
 
 </resources>
